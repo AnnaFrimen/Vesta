@@ -1,5 +1,5 @@
 {
-  "name": "ВЕСТА",
+  "name": "manifest.webmanifest",
   "short_name": "ВЕСТА",
   "description": "Система сопровождения. Режим: протокол.",
   "start_url": "./index.html",
